@@ -1,0 +1,17 @@
+h3 {
+    color: red;
+}
+
+img {
+    float: right;
+}
+
+h1 {
+    color: green;
+}
+
+#link {
+    color: green;
+    float: inline-end;
+    font: 50px;
+}

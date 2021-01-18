@@ -1,0 +1,30 @@
+        * {
+            margin: 0;
+        }
+        
+        div {
+            min-height: 50vh;
+            color: red;
+            background-position: cover;
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        
+        .image {
+            background: url("/images/Bded.jpeg");
+            background-color: black;
+            background-size: cover;
+        }
+        
+        .bigimage {
+            background: url("/images/Broyal.jpeg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+        
+        .smallimage {
+            background: url("/images/Bkirchen.webp");
+            background-size: cover;
+        }

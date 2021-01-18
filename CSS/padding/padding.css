@@ -1,0 +1,20 @@
+    * {
+        margin: 0px;
+    }
+    
+    #water {
+        background-color: yellow;
+        padding: 50px;
+        margin-bottom: 20px;
+        border-color: rgb(19, 16, 16);
+        border-style: solid;
+        border-width: 10px;
+    }
+    
+    #life {
+        background-color: green;
+        padding: 50px;
+        border-color: rgb(241, 4, 4);
+        border-style: solid;
+        border-width: 15px;
+    }
